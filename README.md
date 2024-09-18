@@ -71,7 +71,3 @@ After running the script:
 ## Contributing
 
 Feel free to submit issues or pull requests if you'd like to improve or expand the functionality of the script.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
